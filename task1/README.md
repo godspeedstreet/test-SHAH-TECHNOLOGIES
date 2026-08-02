@@ -1,4 +1,4 @@
-# Outreach Data Loader
+# Задание 1 - Выгрузка → Postgres
 
 Загрузка данных компаний из JSON и CSV в PostgreSQL с дедупликацией.
 
